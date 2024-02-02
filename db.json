@@ -1,0 +1,28 @@
+{
+  "products" : [
+    {
+      "id" : "1",
+      "name" : "Laptop",
+      "price" : "2000000",
+      "category" : [
+        "Smart","Good"
+      ]
+    },
+    {
+      "id" : "2",
+      "name" : "IPhone",
+      "price" : "2000000",
+      "category" : [
+        "Smart","Good"
+      ]
+    },
+    {
+      "id" : "3",
+      "name" : "Tivi",
+      "price" : "2000000",
+      "category" : [
+        "Smart","Good"
+      ]
+    }
+  ]
+}
